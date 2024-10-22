@@ -15,6 +15,8 @@ public class ReviewBookingPage {
 		WebElement total_amount_msg=driver.findElement(grand_total);
 		String total_price=total_amount_msg.getText();
 		System.out.println("Grand Total Amount = "+total_price);
+		
+		System.out.println("New changes are added.");
 	}
 	
 	public void CloseBrwoser(WebDriver driver) {
