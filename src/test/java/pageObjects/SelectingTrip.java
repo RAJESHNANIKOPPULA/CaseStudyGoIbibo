@@ -6,11 +6,11 @@ import org.openqa.selenium.WebElement;
 
 public class SelectingTrip {
 	
-	String first_dep_date="Thu Oct 24 2024";
+	String first_dep_date="Thu Nov 07 2024";
 	
-	String second_dep_date="Sun Oct 27 2024";
+	String second_dep_date="Sun Nov 10 2024";
 	
-	String third_dep_date="Wed Oct 30 2024";
+	String third_dep_date="Wed Nov 13 2024";
 	
 	private By login_tab_close=By.xpath("//span[@class='logSprite icClose']");
 	private By ad_close=By.xpath("//p[@class='sc-jlwm9r-1 ewETUe']");
